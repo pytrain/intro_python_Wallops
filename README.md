@@ -1,5 +1,12 @@
 ## ASTG Python Course: Introduction to Python
 
+This accelerated course is designed for participants who quickly want to learn the basic concepts of the Python language and be able to use Python related tools for their work. In the morning, we will cover the foundations of Python (data types, conditional statements, loops, functions, modules). In the afternoon, we will present various Python tools (Matplotlib, Pandas, etc.) that are used to read/write files, manipulate data and perform visualization. 
+
+**Prerequisites**: 
+* Ability to program in another language (C, C++, Fortran, Java, Matlab, IDL, etc.). 
+* Ability to manipulate a web browser, to open command prompt window or terminal window and edit text files.
+
+Participants are expected to bring their own laptops and have Gmail accounts.
 
 <!---
 ### AGENDA
