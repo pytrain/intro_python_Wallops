@@ -1,10 +1,10 @@
-## Beginner Python Class for Programmers (Wallops)
+## ASTG Python Course: Introduction to Python
 
-
-
-### AGENDA
 
 <!---
+### AGENDA
+
+
 | Time | Lecture Topic | Interactive Link | Lecturer |
 |------|---------------|------------------|----------|
 | 08:30-09:15 | **Basic Setups and Launching Python** |  |  |
